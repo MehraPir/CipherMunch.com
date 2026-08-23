@@ -3,7 +3,7 @@
 import html, json, os
 
 OUT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DOMAIN = "https://learningplaygroundapps.com"
+DOMAIN = "https://ciphermunch.com"
 APP = "https://apps.apple.com/us/app/cipher-munch/id6773527361"
 AMAZON = "https://www.amazon.com/dp/B0HC616CPG"
 PLAY = "https://play.google.com/store/apps/details?id=com.learningplaygroundapps.ciphermunch"
@@ -60,8 +60,8 @@ FOOTER = '''
     <div class="wrap">
       <div class="footer-grid">
         <div>
-          <h4>Learning Playground Apps</h4>
-          <p>An independent studio making playful, brainy iOS apps. Cipher Munch is our love letter to classical ciphers, and to the coaches and students who race to crack them.</p>
+          <h4>Cipher Munch</h4>
+          <p>A cryptogram and Codebusters practice app for iPhone, iPad, Mac, Android, and Fire tablets. Our love letter to classical ciphers, and to the coaches and students who race to crack them.</p>
         </div>
         <div>
           <h4>Guides</h4>
