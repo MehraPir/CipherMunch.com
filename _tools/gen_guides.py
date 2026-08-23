@@ -81,7 +81,7 @@ FOOTER = '''
             <li><a href="''' + PLAY + '''">Get it on Google Play</a></li>
             <li><a href="/privacy-policy.html">Privacy policy</a></li>
             <li><a href="/terms-of-use.html">Terms of use</a></li>
-            <li><a href="mailto:LearningPlayGroundApps@gmail.com">Contact</a></li>
+            <li><a href="mailto:CipherMunch@gmail.com">Contact</a></li>
           </ul>
         </div>
       </div>
